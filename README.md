@@ -3,7 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummeq&label=Profile%20views&color=0e75b6&style=flat" alt="ummeq" /> </p>
 
-<p align="left"> <a href="https://twitter.com/coder_habiba" target="blank"><img src="https://img.shields.io/twitter/follow/coder_habiba?logo=twitter&style=for-the-badge" alt="coder_habiba" /></a> </p>
+<p align="left">
+<a target="_blank"  href="https://www.linkedin.com/in/ummeqadri/"><img src="https://img.shields.io/badge/-@ummeqadri-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ummeqadri/" alt="LinkedIn Badge"></a>
+
 
 - 🔭 I’m currently working on [World Rank](https://www.figma.com/file/MwfoHqI1fF2BMlLssQl2xQ/World-Ranks?node-id=0%3A1)
 
