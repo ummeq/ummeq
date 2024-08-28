@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **habiba.a.qadri@gmail.com**
 
-- 📄 Know about my experiences - I am MEAN stack Developer with 5.6+ years experienced in designing, implementing, deploying software solutions
+- 📄 Know about my experiences - I am MEAN/MERN stack Developer with 8 years experienced in designing, implementing, deploying software solutions
 
 - ⚡ Fun fact **Interested to know?😛**
 
