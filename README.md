@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [World Rank](https://www.figma.com/file/MwfoHqI1fF2BMlLssQl2xQ/World-Ranks?node-id=0%3A1)
 
-- 🌱 I’m currently learning **Reactjs and Nextjs**
+- 🌱 I’m currently learning **Machine learning**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ummeqadri/](https://www.linkedin.com/in/ummeqadri/)
 
-- 💬 Ask me about **Javascript, HTML5, CSS3, Angular, Typescript**
+- 💬 Ask me about **Javascript, HTML5, CSS3, Angular, Reactjs, Nextjs, Typescript**
 
 - 📫 How to reach me **habiba.a.qadri@gmail.com**
 
